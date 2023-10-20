@@ -1,6 +1,6 @@
 import React from "react";
  
-const Projects = () => {
+const Subscribe = () => {
     return (
         <div
             style={{
@@ -10,9 +10,11 @@ const Projects = () => {
                 height: "100vh",
             }}
         >
-            <h1>Project page</h1>
+            <h1>
+                Subscribe
+            </h1>
         </div>
     );
 };
  
-export default Projects;
+export default Subscribe;
